@@ -20,6 +20,7 @@ git pull origin main
 ```
 
 git pull
+<img width="455" alt="image" src="https://github.com/Dharanihandyal/LinearRegression_e2e/assets/95348233/436ef73d-9827-49d1-93bd-862c5ae517e9">
 
 ```
 
