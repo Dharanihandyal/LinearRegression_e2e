@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HDHARANI/Desktop/ML%20algo%20practocal%20ineuron/LinearRegression_e2e/mlruns/0/6e7049e086814713bc47e8c897b940e7/artifacts
+end_time: 1703830343063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e7049e086814713bc47e8c897b940e7
+run_name: mercurial-toad-639
+run_uuid: 6e7049e086814713bc47e8c897b940e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703830334315
+status: 3
+tags: []
+user_id: hdharani
